@@ -1,4 +1,4 @@
-### Hi there, I'm Tanmay 👋
+### Hi there, I'm Tanmay kala👋
 
 **👨‍💻 AI Innovator | Full-Stack Developer | Problem Solver**
 
