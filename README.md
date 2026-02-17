@@ -1,6 +1,6 @@
 ### Hi there, I'm Tanmay kala👋
 
-**👨‍💻 AI Innovator | Full-Stack Developer | Problem Solver**
+**👨‍💻 AI Innovator | Full-Stack Developer | Problem Solver | @founder NAXATRA AI**
 
 I don't just write code; I build **intelligent ecosystems**. My work bridges the gap between complex AI models and real-world utility, focusing on automation, voice synthesis, and sustainable tech.
 
